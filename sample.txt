@@ -1,0 +1,10 @@
+hello
+// API->application programming interface
+customer->waiter->chef
+client->Api->server
+SOAP:Simple object access protocol
+xml,http,smtp,wsdl(web service definition language)
+REST: resprest
+protocol-http
+json
+client server ,stateless,curd

@@ -1,0 +1,22 @@
+//programming straegy or methodology
+//c++,java,Phthon
+// Features
+ object:primitive data type or real world
+classes: collection of object (template of object)
+// example: class->phone
+// object-> functionality(call,message,music) characteristics(ip address,brand)
+// man: Attributes(name,age);functionalities(deposit,withdrawal)
+
+// type of oop
+Abstraction:hidden inner process
+// only expose wanted data and hidden unwanted data
+// when you call to phone a to phone
+
+Inheritance
+// parent and child
+ encapsulation
+// private,public
+
+ polymorphism
+// poly ->many morp->face
+// plus operator work between integer addition and between string its a concaniate

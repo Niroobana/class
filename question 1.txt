@@ -1,0 +1,21 @@
+question 1 
+class: Employee
+objects : id,name,salary
+call a class and store 2 employee data
+ 
+ question 2
+company :name,emp_id,emp_name,emp_salary
+super:emp_id,emp_name,emp_salary
+
+output: john got 20000 salary in xyz company
+
+question 3
+class: worker
+object:money
+
+current money:10000
+next month money=current money+1000;
+
+output: currentmoney=10000
+next month money=11000
+
